@@ -533,5 +533,5 @@ hs_err_pid*
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
-
+.env
 # End of https://www.toptal.com/developers/gitignore/api/dart,windows,linux,macos,flutter,visualstudiocode,androidstudio,android,laravel,phpstorm,intellij+all
