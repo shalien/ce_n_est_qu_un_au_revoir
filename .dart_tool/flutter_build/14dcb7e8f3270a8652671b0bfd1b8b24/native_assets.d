@@ -1,0 +1,1 @@
+ C:\\Users\\Ophelien\\StudioProjects\\happy_new_year\\.dart_tool\\flutter_build\\14dcb7e8f3270a8652671b0bfd1b8b24\\native_assets.yaml: 

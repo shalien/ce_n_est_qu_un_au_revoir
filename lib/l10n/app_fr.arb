@@ -1,0 +1,17 @@
+{
+  "incoming_year": "L'année à venir est",
+  "@incoming_year": {
+    "description": "The year that is coming",
+    "placeholders": "L'année à venir est"
+  },
+  "nextYealWillBehereIn": "L'année prochaine commence dans",
+  "days": "jours",
+    "hours": "heures",
+    "minutes": "minutes",
+    "seconds": "secondes",
+  "createdWith": "Créer avec ",
+  "by": " par ",
+  "and": " et ",
+  "shalien": " Shalien ",
+  "license": "Licence"
+}

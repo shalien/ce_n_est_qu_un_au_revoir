@@ -1,0 +1,17 @@
+{
+  "incoming_year": "Incoming Year",
+  "@incoming_year": {
+    "placeholder": "Incoming Year",
+    "description": "Incoming Year"
+  },
+  "nextYealWillBehereIn": "Next year will be here in",
+  "days": "days",
+  "hours": "hours",
+  "minutes": "minutes",
+  "seconds": "seconds",
+  "createdWith": "Created with ",
+  "by": " by ",
+  "and": " and ",
+  "shalien": " Shalien ",
+  "license": "License"
+}
