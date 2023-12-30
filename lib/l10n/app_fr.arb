@@ -1,4 +1,5 @@
 {
+  "forAuldLangSyne": "Ce n'est qu'un au revoir",
   "incoming_year": "L'année à venir est",
   "@incoming_year": {
     "description": "The year that is coming",
@@ -6,12 +7,26 @@
   },
   "nextYealWillBehereIn": "L'année prochaine commence dans",
   "days": "jours",
-    "hours": "heures",
-    "minutes": "minutes",
-    "seconds": "secondes",
+  "hours": "heures",
+  "minutes": "minutes",
+  "seconds": "secondes",
   "createdWith": "Créer avec ",
   "by": " par ",
   "and": " et ",
   "shalien": " Shalien ",
-  "license": "Licence"
+  "license": "Licence",
+  "leaveMessage": "Laisser un message",
+  "happyNewYear": "Bonne année !",
+  "happyNewYearMessageStart": "Une excellente année ",
+  "happyNewYearMessageEnd": " à vous et tous vos proches !",
+  "from": "De",
+  "to": "À",
+  "message": "Message",
+  "send": "Envoyer",
+  "cancel": "Annuler",
+  "fromError": "Le champs De est requis",
+  "toError": "Le champs À est requis",
+  "messageError": "Le champs Message est requis",
+  "notice": "Tous les champs sont stockés chiffrés. L'ensemble des messages seont effacés le 3 janvier",
+  "messageSent": "Votre message est sauvegardé ! Vous pouvez le partager avec le lien suivant :"
 }

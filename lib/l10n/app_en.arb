@@ -1,4 +1,5 @@
 {
+  "forAuldLangSyne": "For Auld Lang Syne",
   "incoming_year": "Incoming Year",
   "@incoming_year": {
     "placeholder": "Incoming Year",
@@ -13,5 +14,19 @@
   "by": " by ",
   "and": " and ",
   "shalien": " Shalien ",
-  "license": "License"
+  "license": "License",
+  "leaveMessage": "Leave a message",
+  "happyNewYear": "Happy New Year !",
+  "happyNewYearMessageStart": "An excellent year ",
+  "happyNewYearMessageEnd": " to you and your loved ones !",
+  "from": "From",
+  "to": "To",
+  "message": "Message",
+  "send": "Send",
+  "cancel": "Cancel",
+  "fromError": "From is required",
+  "toError": "To is required",
+  "messageError": "Message is required",
+  "notice": "Every fields of this form will be stored in a crypted way. Every messages will be deleted on 3rd of January",
+  "messageSent": "Your message is saved ! You can share it with the link below"
 }

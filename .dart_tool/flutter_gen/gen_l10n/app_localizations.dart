@@ -93,6 +93,12 @@ abstract class AppLocalizations {
     Locale('fr')
   ];
 
+  /// No description provided for @forAuldLangSyne.
+  ///
+  /// In en, this message translates to:
+  /// **'For Auld Lang Syne'**
+  String get forAuldLangSyne;
+
   /// Incoming Year
   ///
   /// In en, this message translates to:
@@ -158,6 +164,90 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'License'**
   String get license;
+
+  /// No description provided for @leaveMessage.
+  ///
+  /// In en, this message translates to:
+  /// **'Leave a message'**
+  String get leaveMessage;
+
+  /// No description provided for @happyNewYear.
+  ///
+  /// In en, this message translates to:
+  /// **'Happy New Year !'**
+  String get happyNewYear;
+
+  /// No description provided for @happyNewYearMessageStart.
+  ///
+  /// In en, this message translates to:
+  /// **'An excellent year '**
+  String get happyNewYearMessageStart;
+
+  /// No description provided for @happyNewYearMessageEnd.
+  ///
+  /// In en, this message translates to:
+  /// **' to you and your loved ones !'**
+  String get happyNewYearMessageEnd;
+
+  /// No description provided for @from.
+  ///
+  /// In en, this message translates to:
+  /// **'From'**
+  String get from;
+
+  /// No description provided for @to.
+  ///
+  /// In en, this message translates to:
+  /// **'To'**
+  String get to;
+
+  /// No description provided for @message.
+  ///
+  /// In en, this message translates to:
+  /// **'Message'**
+  String get message;
+
+  /// No description provided for @send.
+  ///
+  /// In en, this message translates to:
+  /// **'Send'**
+  String get send;
+
+  /// No description provided for @cancel.
+  ///
+  /// In en, this message translates to:
+  /// **'Cancel'**
+  String get cancel;
+
+  /// No description provided for @fromError.
+  ///
+  /// In en, this message translates to:
+  /// **'From is required'**
+  String get fromError;
+
+  /// No description provided for @toError.
+  ///
+  /// In en, this message translates to:
+  /// **'To is required'**
+  String get toError;
+
+  /// No description provided for @messageError.
+  ///
+  /// In en, this message translates to:
+  /// **'Message is required'**
+  String get messageError;
+
+  /// No description provided for @notice.
+  ///
+  /// In en, this message translates to:
+  /// **'Every fields of this form will be stored in a crypted way. Every messages will be deleted on 3rd of January'**
+  String get notice;
+
+  /// No description provided for @messageSent.
+  ///
+  /// In en, this message translates to:
+  /// **'Your message is saved ! You can share it with the link below'**
+  String get messageSent;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

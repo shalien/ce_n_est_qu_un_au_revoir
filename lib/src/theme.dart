@@ -14,15 +14,21 @@ const List<Color> newYearColors = [
   gold,
 ];
 
-ThemeData lightTheme(Color color) => ThemeData(
-      colorScheme:
-          ColorScheme.fromSeed(seedColor: color, brightness: Brightness.light),
+ThemeData get lightTheme => ThemeData(
+      colorScheme: ColorScheme.fromSeed(
+          seedColor: randomColor(), brightness: Brightness.light),
       useMaterial3: true,
     );
 
-ThemeData darkTheme(Color color) => ThemeData(
-      colorScheme:
-          ColorScheme.fromSeed(seedColor: color, brightness: Brightness.dark),
+ThemeData get darkTheme => ThemeData(
+      colorScheme: ColorScheme.fromSeed(
+          seedColor: randomColor(), brightness: Brightness.dark),
+      useMaterial3: true,
+    );
+
+ThemeData get royalBlueTheme => ThemeData(
+      colorScheme: ColorScheme.fromSeed(
+          seedColor: darkRoyalBlue, brightness: Brightness.dark),
       useMaterial3: true,
     );
 
